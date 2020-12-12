@@ -124,4 +124,5 @@ body {
     color: #141c3a;
     letter-spacing: 1px;
     cursor: pointer;
+    outline: none;
 }
